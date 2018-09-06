@@ -1,3 +1,3 @@
 # Hello-World
 The Press Factory
-Frontend Wordpress website design for Sunray Graphics & Print
+Frontend WordPress website design for Sunray Graphics & Print co.
